@@ -1,7 +1,7 @@
 # blackJackGame_Python
 
 What I learned:
-       I learned how to use dict, reading from files and how to effectively
+       I learned how to use dict, reading from files and how to effectively to make functions for the code to be neater.
        
 BlackJack Rules : 
   The goal of blackjack is to beat the dealer's hand without going over 21.
